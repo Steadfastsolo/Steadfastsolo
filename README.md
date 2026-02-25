@@ -30,11 +30,11 @@ In UGA I participate in a variety of clubs and student organizations:
 * Game Builders Club, a student organization dedicated to helping students learn all there is to know about video game design.
 
 ## Skills 🏗️
-# Languages
+### Languages
 
-# Tools
+### Tools
 
-# Links
+### Links
 
 
 
