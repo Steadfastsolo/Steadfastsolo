@@ -10,10 +10,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-## Welcome! 👋
+# Welcome! 👋
 
-# About Me 🔐
-My name is David Brendan Augustin. I am a computer science B.S. student at the University of Georgia! 
-I am also planning on pursuing a certificate program in cybersecurity & privacy. 
+## About Me 🔐
+📟 Hi, I’m David Brendan Augustin, a B.S. Computer Science student at the University of Georgia. 
+I’m currently pursuing a strong foundation in software development while planning to complete a certificate in cybersecurity & privacy. 
+Right now my current project is a full-stack Wordle clone to strengthen my backend architecture, API design, and frontend integration skills.
+
+🎮 Besides my academic pursuits, I also enjoy learning new skills such as 3D modelling and game development.
+I hope to release my own comercial game in the future and maybe even start a 3D printing buissness. 
+
+🥾 I also enjoy going on hiking trails and vacations around the world with my friends and family.
+
+## My Involvment 🏫
+In UGA I participate in a variety of clubs and student organizations:
+* HackThePack, a cybersecurity-focused student organization centered on CTF / cybersecurity competitions, hands-on security labs, 
+  and collaborative learning in areas like network security, cryptography, reverse engineering, and more.
+* Dev Dogs, a student-run club at UGA dedicated to benefiting the local community through code.
+* Game Builders Club, a student organization dedicated to helping students learn all there is to know about video game design.
+
+## Skills 🏗️
+# Languages
+
+# Tools
+
+# Links
+
+
+
 
 
