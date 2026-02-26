@@ -33,9 +33,22 @@ In UGA I participate in a variety of clubs and student organizations:
 ### Languages
 ![Static Badge](https://img.shields.io/badge/Java-grey?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
+![Static Badge](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Matlab-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/R_Project-red?style=for-the-badge&logo=R)
+![Static Badge](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C)
+![Static Badge](https://img.shields.io/badge/SQL-lightblue?style=for-the-badge)
 
 ### Tools
+![Static Badge](https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=linux)
+![Static Badge](https://img.shields.io/badge/excel-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/MITRE_ATT&CK-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/NIST-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/OpenCTI-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/wireshark-blue?style=for-the-badge&logo=wireshark)
+![Static Badge](https://img.shields.io/badge/SIEM-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Blender-darkorange?style=for-the-badge&logo=Blender)
+![Static Badge](https://img.shields.io/badge/Eclipse_IDE-darkblue?style=for-the-badge&logo=Eclipse_IDE)
 
 ### Links
 
