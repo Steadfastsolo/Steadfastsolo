@@ -39,7 +39,7 @@ In UGA I participate in a variety of clubs and student organizations:
 ![Static Badge](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C)
 ![Static Badge](https://img.shields.io/badge/SQL-lightblue?style=for-the-badge)
 
-### Tools
+### Tools & Frameworks
 ![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 ![Static Badge](https://img.shields.io/badge/excel-green?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MITRE_ATT&CK-orange?style=for-the-badge)
@@ -49,15 +49,17 @@ In UGA I participate in a variety of clubs and student organizations:
 ![Static Badge](https://img.shields.io/badge/SIEM-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Blender-darkyellow?style=for-the-badge&logo=Blender)
 ![Static Badge](https://img.shields.io/badge/Eclipse_IDE-darkgray?style=for-the-badge&logo=eclipseide)
-![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-lightpurple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Intellij_IDEA-maroon?style=for-the-badge&logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/Docker-darkblue?style=for-the-badge&logo=Docker)
-![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![Static Badge](https://img.shields.io/badge/Github-lightgreen?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine)
 
 ### Links
-
-
+![Static Badge](https://img.shields.io/badge/Portfolio-lightpurple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/GMAIL-orange?style=for-the-badge&logo=gmail)
+![Static Badge](https://img.shields.io/badge/Resume-yellow?style=for-the-badge)
 
 
 
