@@ -40,15 +40,20 @@ In UGA I participate in a variety of clubs and student organizations:
 ![Static Badge](https://img.shields.io/badge/SQL-lightblue?style=for-the-badge)
 
 ### Tools
-![Static Badge](https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=linux)
+![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 ![Static Badge](https://img.shields.io/badge/excel-green?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MITRE_ATT&CK-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/NIST-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/OpenCTI-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/wireshark-blue?style=for-the-badge&logo=wireshark)
-![Static Badge](https://img.shields.io/badge/SIEM-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Blender-darkorange?style=for-the-badge&logo=Blender)
-![Static Badge](https://img.shields.io/badge/Eclipse_IDE-darkblue?style=for-the-badge&logo=Eclipse_IDE)
+![Static Badge](https://img.shields.io/badge/SIEM-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Blender-darkyellow?style=for-the-badge&logo=Blender)
+![Static Badge](https://img.shields.io/badge/Eclipse_IDE-darkgray?style=for-the-badge&logo=eclipseide)
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Intellij_IDEA-maroon?style=for-the-badge&logo=intellijidea)
+![Static Badge](https://img.shields.io/badge/Docker-darkblue?style=for-the-badge&logo=Docker)
+![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![Static Badge](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine)
 
 ### Links
 
