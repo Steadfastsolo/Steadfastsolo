@@ -31,13 +31,12 @@ In UGA I participate in a variety of clubs and student organizations:
 
 ## Skills 🏗️
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,r)](https://skillicons.dev)
+![Static Badge](https://img.shields.io/badge/Java-gray) ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,visualstudio,eclipse,blender,github,docker,)](https://skillicons.dev)
 
 ### Links
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
+
 
 
 
