@@ -31,7 +31,9 @@ In UGA I participate in a variety of clubs and student organizations:
 
 ## Skills 🏗️
 ### Languages
-![Static Badge](https://img.shields.io/badge/Java-gray) ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/Java-grey?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
 
 ### Tools
 
