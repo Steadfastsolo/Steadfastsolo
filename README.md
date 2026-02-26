@@ -41,7 +41,7 @@ In UGA I participate in a variety of clubs and student organizations:
 
 ### Tools & Frameworks
 ![Static Badge](https://img.shields.io/badge/Linux-lightyellow?style=for-the-badge&logo=linux)
-![Static Badge](https://img.shields.io/badge/excel-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/excel-darkpurple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MITRE_ATT&CK-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/NIST-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/OpenCTI-black?style=for-the-badge)
@@ -56,7 +56,7 @@ In UGA I participate in a variety of clubs and student organizations:
 ![Static Badge](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine)
 
 ### Links
-![Static Badge](https://img.shields.io/badge/Portfolio-lightpurple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Portfolio-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/GMAIL-orange?style=for-the-badge&logo=gmail)
 ![Static Badge](https://img.shields.io/badge/Resume-yellow?style=for-the-badge)
